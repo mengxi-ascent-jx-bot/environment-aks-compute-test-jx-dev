@@ -1,0 +1,10 @@
+adminUser:
+  password: local:aks-compute-test-jx/adminUser:password
+  username: mengxi
+enableDocker: false
+pipelineUser:
+  email: linmengxi@gmail.com
+  token: local:aks-compute-test-jx/pipelineUser:token
+  username: mengxi-ascent-jx-bot
+prow:
+  hmacToken: local:aks-compute-test-jx/prow:hmacToken
